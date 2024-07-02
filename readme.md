@@ -5,22 +5,19 @@
 <br />
 <div align="center">
   <a href="https://github.com/zyx-0314/">
-  <!-- TODO: If you want to add logo or banner you can add it here -->
-    <img src="./assets/img/nyebe_white.png" alt="Nyebe" width="130" height="100">
+    <img src="../WD-BALAN-SW4-main/assets/img/negro.jpg" alt="Panda" width="130" height="100">
   </a>
-<!-- TODO: Change Title to the name of the title of your Project -->
-  <h3 align="center">Title</h3>
+
+  <h3 align="center">SEWATWORK 4</h3>
 </div>
-<!-- TODO: Make a short description -->
+
 <div align="center">
-  Short Description. (Optional)
+ This project showcases various features and functionalities designed to enhance user experience. Explore Feature 1 and Feature 2 to see the implementations in action.
 </div>
 
 <br />
 
-<!-- TODO: Change the zyx-0314 into your github username  -->
-<!-- TODO: Change the WD-Template-Project into the same name of your folder -->
-![](https://visit-counter.vercel.app/counter.png?page=zyx-0314/WD-Template-Project)
+![](https://visit-counter.vercel.app/counter.png?page=Maerona03/WD-Handson2)
 
 ---
 
@@ -57,28 +54,34 @@
 
 <!-- TODO: To be changed -->
 <!-- The following are just sample -->
+
 Description of the project in details.
 
 Guiding Question:
-- What is the project
-- Whats the purpose
+
+- What is the project : The project is about creating A feature page using HTML and CSS.
+- Whats the purpose: To enhance and development skills techniques in web design and development.
 - What are key components
 - What technology used and how it is used
 
 ### Key Components
+
 <!-- TODO: List of Key Components -->
 <!-- The following are just sample -->
-- MultiPage Website/Single Page Website
-- Parallax transition
-- Transactional
+
+- MultiPage Website
+- Button or Links
+- Image Masking
+- Color Hover Effects
+- Card Animation
 
 ### Technology
-<!-- TODO: List of Technology Used -->
+
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white)
 
 ## Rules, Practices and Principles
+
 1. Always use `WD-` in the front of the Title of the Project for the Subject followed by your custom naming.
 2. Do not rename any .html files; always use `index.html` as the filename.
 3. Place Files in their respective folders.
@@ -115,6 +118,12 @@ WD-ProjectName
 ## Resources
 
 <!-- TODO: Add References -->
-| Title | Purpose | Link |
-|-|-|-|
-| Sample Title | Sample purpose would be here like this and this is the example of what it is. | trykolang.com |
+
+| Title     | Purpose                                        | Link                                               |
+| --------- | ---------------------------------------------- | -------------------------------------------------- |
+| FONTS     | Applying style fonts to make the font better.  | https://fonts.google.com/selection/embed           |
+| Youtube   | Getting ideas and tutorial for different style | https://www.youtube.com/watch?v=6KSKn9xIxUQ&t=518s |
+| Youtube   | Getting ideas and tutorial for different style | https://youtu.be/6KSKn9xIxUQ?si=DNh-ZyvcZEC564Rw   |
+| w3schools | Learn some codes in css and how it works.      | https://www.w3schools.com/csS/css_boxmodel.asp     |
+| GOOGLE    | Get some ideas for styling and animation.      | https://devdevout.com/css/css-cards                |
+| OVERWATCH   | Get some ideas for styling and animation.      | https://overwatch.blizzard.com/en-gb/
