@@ -5,7 +5,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/zyx-0314/">
-    <img src="../WD-BALAN-SW4-main/assets/img/negro.jpg" alt="Panda" width="130" height="100">
+    <img src="../../assets/img/Masthead_Overwatch2_Logo.avif" alt="Panda" width="130" height="100">
   </a>
 
   <h3 align="center">SEWATWORK 4</h3>
@@ -123,7 +123,11 @@ WD-ProjectName
 | --------- | ---------------------------------------------- | -------------------------------------------------- |
 | FONTS     | Applying style fonts to make the font better.  | https://fonts.google.com/selection/embed           |
 | Youtube   | Getting ideas and tutorial for different style | https://www.youtube.com/watch?v=6KSKn9xIxUQ&t=518s |
-| Youtube   | Getting ideas and tutorial for different style | https://youtu.be/6KSKn9xIxUQ?si=DNh-ZyvcZEC564Rw   |
+| TIMBERLANDS | Get some ideas for styling and animation.    | https://www.timberland.com/en-us                   |
 | w3schools | Learn some codes in css and how it works.      | https://www.w3schools.com/csS/css_boxmodel.asp     |
 | GOOGLE    | Get some ideas for styling and animation.      | https://devdevout.com/css/css-cards                |
-| OVERWATCH   | Get some ideas for styling and animation.      | https://overwatch.blizzard.com/en-gb/
+| OVERWATCH   | Get some ideas for styling and animation.    | https://overwatch.blizzard.com/en-gb/
+
+## Instructions 
+
+wait for the landing page to load then you will have two buttons you can choose between overwatch or timberlands and in those two it will showcase different features styles
